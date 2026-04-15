@@ -1,0 +1,22 @@
+{
+  "short_name": "Gidi GRIT",
+  "name": "Gidi GRIT: Smart Agric Dashboard",
+ "icons": [
+  {
+    "src": "pwa-192x192.png",
+    "type": "image/png",
+    "sizes": "1024x1024",
+    "purpose": "any"
+  },
+  {
+    "src": "pwa-512x512.png",
+    "type": "image/png",
+    "sizes": "1024x1024",
+    "purpose": "any"
+  }
+],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1a1a1a",
+  "background_color": "#ffffff"
+}
